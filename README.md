@@ -2,7 +2,7 @@
 
 A GUI based simulation based off the SIR model, built in Java using Processing GUI. Produced for Year 1 Mathematics Bridging Coursework.
 
-A link to the final paper is available here: https://github.com/danielbatchford/VirusSimulation/PaperFinalDanielBatchford.pdf
+A link to the final paper is available here: [link](https://github.com/danielbatchford/VirusSimulation/blob/master/PaperFinalDanielBatchford.pdf "Paper.pdf")
 
 ## Abstract
 *This is a paper describing the creation of a computer simulation of virus spread and
